@@ -1,15 +1,17 @@
 ---
-title: "百舌鳥 ・古市古墳群特別公開（2022-03-27）"
+title: "百舌鳥古墳群特別公開（2022-03-27）"
 date: 2022-03-27T21:00:00+09:00
 author: tenforward
 #description: 
-tags: ["古墳群","5世紀中旬","円墳"]
+tags: ["古墳群","5世紀中旬","5世紀後半","円墳"]
 categories: ["大阪府"]
 draft: true
 lastmod: 
 image:
 ---
 古墳に興味のないころに一度大仙古墳は見たものの、特にインパクトのある記憶としては残っていない百舌鳥・古市古墳群のうち 4 つの古墳が特別公開され、墳丘に登れるイベントがあると知って行ってきました。
+
+* [世界遺産・百舌鳥古墳群　特別公開イベントを開催します](https://www.city.sakai.lg.jp/kanko/rekishi/sei/samazama_torikumi/r03/kofunkoukai.html) （堺市）
 
 公開されたのは次の 4 つの古墳でした。
 
