@@ -3,7 +3,7 @@ title: "百舌鳥古墳群特別公開（2022-03-27）"
 date: 2022-03-27T21:00:00+09:00
 author: tenforward
 #description: 
-tags: ["古墳群","5世紀中旬","5世紀後半","円墳"]
+tags: ["古墳群","5世紀中旬","5世紀後半","円墳","帆立貝形前方後円墳"]
 categories: ["大阪府"]
 draft: true
 lastmod: 
@@ -60,3 +60,29 @@ JR阪和線に乗って向かいます。最寄駅は百舌鳥駅ですが、乗
 ![グワショウ坊古墳](guwashobo_2.jpg)
 ![グワショウ坊古墳](guwashobo_5.jpg)
 
+## 収塚古墳
+
+仁徳陵の陪塚らしい、帆立型の前方後円墳だったようですね。
+
+![収塚古墳](osameduka_1.jpg)
+![収塚古墳](osameduka_2.jpg)
+
+普段は入れない部分の外は普通に公園の広場なんで、自転車が脇に止まってたりします。
+
+![収塚古墳](osameduka_3.jpg)
+![収塚古墳](osameduka_4.jpg)
+
+墳丘に上る前は発掘されたものの説明が学芸員から受けられました。
+
+![収塚古墳見学前の説明](osameduka_5.jpg)
+
+![収塚古墳墳丘から](osameduka_6.jpg)
+![収塚古墳墳丘から](osameduka_7.jpg)
+
+![収塚古墳墳丘から](osameduka_8.jpg)
+![収塚古墳内部から墳丘](osameduka_9.jpg)
+
+![収塚古墳全体](osameduka_10.jpg)
+![収塚古墳全体](osameduka_11.jpg)
+
+![収塚古墳墳丘から（パノラマ撮影）](osameduka_12.jpg)
