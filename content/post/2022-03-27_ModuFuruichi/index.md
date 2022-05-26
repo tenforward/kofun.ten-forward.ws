@@ -202,4 +202,7 @@ JR阪和線に乗って向かいます。最寄駅は百舌鳥駅ですが、乗
 ![竜佐山古墳](tatsusayama_3.jpg)
 ![竜佐山古墳](tatsusayama_4.jpg)
 
+![竜佐山古墳](tatsusayama_6.jpg)
+![竜佐山古墳](tatsusayama_7.jpg)
+
 
