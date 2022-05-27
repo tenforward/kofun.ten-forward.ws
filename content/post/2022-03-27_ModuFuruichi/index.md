@@ -205,4 +205,19 @@ JR阪和線に乗って向かいます。最寄駅は百舌鳥駅ですが、乗
 ![竜佐山古墳](tatsusayama_6.jpg)
 ![竜佐山古墳](tatsusayama_7.jpg)
 
+## 狐山古墳
+
+竜佐山古墳からそのまま西にすすむと、仁徳天皇陵古墳の角のあたりにあるのが狐山古墳です。
+
+5 世紀後半の円墳で、元々は濠があったようです。いい膨らみの円墳ですねえ。
+
+![狐山古墳案内板](kitsuneyama_3.jpg)
+
+![狐山古墳](kitsuneyama_1.jpg)
+![狐山古墳](kitsuneyama_2.jpg)
+
+![狐山古墳](kitsuneyama_4.jpg)
+![狐山古墳](kitsuneyama_5.jpg)
+![狐山古墳](kitsuneyama_6.jpg)
+
 
