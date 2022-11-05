@@ -7,6 +7,7 @@ tags: ["5世紀前半","前方後円墳"]
 categories: ["京都府"]
 draft: false
 image: Igenoyama10.jpg
+lastmod: '2022-11-06T03:00:00+09:00'
 ---
 
 乙訓古墳群のうち、長岡京市にある恵解山（いげのやま）古墳に行ってきました。
