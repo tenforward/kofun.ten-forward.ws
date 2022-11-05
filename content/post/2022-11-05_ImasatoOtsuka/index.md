@@ -19,11 +19,13 @@ image: ImasatoOtsuka5.jpg
 
 古墳には入れませんが、古墳脇が公園になっていて、柵の前からぐるっと古墳を見学できます。
 
-![今城大塚古墳公園](ImasatoOtsuka1.jpg)
-![今城大塚古墳公園](ImasatoOtsuka2.jpg)
+![今里大塚古墳公園](ImasatoOtsuka1.jpg)
+![今里大塚古墳公園](ImasatoOtsuka2.jpg)
 
-7 世紀ってことで古墳も末期になってますね。公園は円墳らしからぬ雰囲気。くびれの曲線がいいです。古墳の案内板の前にも草が大量に積まれていて見えませんでしたw
+7 世紀ってことで古墳も末期になってますね。
 
-![くびれ](ImasatoOtsuka3.jpg)
+古墳の案内板の前にも草が大量に積まれていて見えませんでしたw
+
+![今里大塚古墳公園](ImasatoOtsuka3.jpg)
 ![見えない案内板](ImasatoOtsuka4.jpg)
 ![散髪を終えてスッキリ](ImasatoOtsuka5.jpg)
