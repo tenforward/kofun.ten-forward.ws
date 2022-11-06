@@ -1,6 +1,6 @@
 ---
 title: "今里大塚古墳"
-date: 2022-11-05T21:10:00+09:00
+date: 2022-11-05T13:40:00+09:00
 author: tenforward
 description: 
 tags: ["7世紀前半","円墳"]
