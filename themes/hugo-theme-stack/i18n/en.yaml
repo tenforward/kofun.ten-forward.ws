@@ -23,8 +23,8 @@ article:
     tableOfContents:
         other: Table of contents
 
-    relatedContent:
-        other: Related content
+    relatedContents:
+        other: Related contents
 
     lastUpdatedOn:
         other: Last updated on
