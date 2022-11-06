@@ -1,6 +1,6 @@
 ---
 title: "塚本古墳"
-date: 2022-11-06T13:20:00+09:00
+date: 2022-11-05T13:20:00+09:00
 author: tenforward
 description: 
 tags: ["6世紀前半","前方後円墳"]
