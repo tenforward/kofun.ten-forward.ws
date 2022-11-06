@@ -9,6 +9,8 @@ draft: false
 image: Hashirida6.jpg
 ---
 
+## 寂照院
+
 [寂照院](https://www.city.nagaokakyo.lg.jp/0000001240.html)の中にある古墳です。寂照院は駐車場もあり、車でのアクセスも可能です。受付には特に人はおらず、拝観料100円と書いた箱が置いてあります。もちろんちゃんと入れましたよ。
 
 ![寂照院](Hashirida1.jpg)
@@ -23,6 +25,15 @@ image: Hashirida6.jpg
 
 ![走田 9 号墳](Hashirida3.jpg)
 ![走田 9 号墳](Hashirida5.jpg)
-![走田 9 号墳](Hashirida7.jpg)
 
+![走田 9 号墳](Hashirida7.jpg)
 ![走田 9 号墳](Hashirida6.jpg)
+
+## 長岡京市埋蔵文化財調査センター
+
+近くの長岡京市埋蔵文化財調査センターには走田 9 号墳から出土した石棺が展示されています。
+
+![長岡京市埋蔵文化財調査センター](Maizobunka.jpg)
+![長岡京市埋蔵文化財調査センター](Maizobunka2.jpg)
+
+埋蔵文化財調査センターは展示も見学できますよ。
