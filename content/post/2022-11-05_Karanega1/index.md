@@ -4,7 +4,7 @@ date: 2022-11-05T15:20:00+09:00
 author: tenforward
 description: 
 tags: ["6世紀後半","形状不明"]
-categories: ["京都"]
+categories: ["京都府"]
 draft: false
 image: Karanega7.jpg
 ---
