@@ -1,6 +1,6 @@
 ---
 title: "カラネガ岳古墳群 1 号墳"
-date: 2022-11-08T23:49:21+09:00
+date: 2022-11-05T15:20:00+09:00
 author: tenforward
 description: 
 tags: ["6世紀後半","形状不明"]
