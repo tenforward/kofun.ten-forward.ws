@@ -5,7 +5,7 @@ author: tenforward
 description: 
 tags: ["6世紀後半","形状不明"]
 categories: ["京都"]
-draft: true
+draft: false
 image: Karanega7.jpg
 ---
 
