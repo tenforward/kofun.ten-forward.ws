@@ -45,3 +45,9 @@ image: Chohouji4.jpg
 ## 参考
 * [長法寺七ツ塚古墳群(ちょうほうじななつづかこふんぐん)](http://nagaokakyo-maibun.or.jp/kofun-nanatuduka.html) （長岡京市埋蔵文化財センター）
 * [長岡京裏百景](https://funakoshiya.net/urahyakkei/ura089.htm) （極楽page）
+
+## おまけ
+
+帰り道に見つけた看板です。全壊で残っていなくて看板だけです。
+
+![舞塚古墳案内板](Maizuka.jpg)
