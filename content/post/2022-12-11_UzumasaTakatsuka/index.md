@@ -5,7 +5,7 @@ author: tenforward
 description: 
 tags: ["5世紀後半","円墳"]
 categories: ["大阪府"]
-draft: true
+draft: false
 image: UzumasaTakatsuka7.jpg
 ---
 大阪府の寝屋川市にきちんと整備された古墳があるということで行ってきました。
