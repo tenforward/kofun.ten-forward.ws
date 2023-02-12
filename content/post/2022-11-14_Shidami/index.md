@@ -66,3 +66,5 @@ image: ShidamiOtsuka1.jpg
 これは外の道から撮ったんだっけ? 後円部であることが感じられます。
 
 ![白鳥塚古墳後円部](Shiratoriduka29.jpg)
+
+（続く）
