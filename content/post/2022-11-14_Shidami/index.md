@@ -87,6 +87,7 @@ image: ShidamiOtsuka1.jpg
 ![志段味大塚古墳造り出し案内板](ShidamiOtsuka12.jpg)
 ![志段味大塚古墳造り出し](ShidamiOtsuka7.jpg)
 
+![志段味大塚古墳埴輪列案内板](ShidamiOtsuka14.jpg)
 ![志段味大塚古墳](ShidamiOtsuka8.jpg)
 ![志段味大塚古墳造り出し](ShidamiOtsuka13.jpg)
 
@@ -94,7 +95,7 @@ image: ShidamiOtsuka1.jpg
 ![志段味大塚古墳埋葬施設](ShidamiOtsuka10.jpg)
 ![志段味大塚古墳埋葬施設](ShidamiOtsuka11.jpg)
 
-![志段味大塚古墳埴輪列案内板](ShidamiOtsuka14.jpg)
+
 
 
 
