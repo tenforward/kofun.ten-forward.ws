@@ -67,4 +67,35 @@ image: ShidamiOtsuka1.jpg
 
 ![白鳥塚古墳後円部](Shiratoriduka29.jpg)
 
+## 志段味大塚古墳
+
+白鳥塚古墳から住宅地の方へ向かって歩いてしばらくすると、交差点の左前方の方におおっ！見えた！
+
+キレイに整備された古墳が見えたときは興奮しました!!
+
+![志段味大塚古墳](ShidamiOtsuka1.jpg)
+![志段味大塚古墳](ShidamiOtsuka4.jpg)
+
+![志段味古墳群道路案内板](ShidamiOtsuka2.jpg)
+![志段味大塚古墳案内板](ShidamiOtsuka3.jpg)
+
+この古墳は5世紀後半の帆立貝式古墳です。作られた当時の形状に復元してるとのこと、うーん、美しいですね。
+
+![志段味大塚古墳](ShidamiOtsuka5.jpg)
+![志段味大塚古墳](ShidamiOtsuka6.jpg)
+
+![志段味大塚古墳造り出し案内板](ShidamiOtsuka12.jpg)
+![志段味大塚古墳造り出し](ShidamiOtsuka7.jpg)
+
+![志段味大塚古墳](ShidamiOtsuka8.jpg)
+![志段味大塚古墳造り出し](ShidamiOtsuka13.jpg)
+
+![志段味大塚古墳埋葬施設案内板](ShidamiOtsuka9.jpg)
+![志段味大塚古墳埋葬施設](ShidamiOtsuka10.jpg)
+![志段味大塚古墳埋葬施設](ShidamiOtsuka11.jpg)
+
+![志段味大塚古墳埴輪列案内板](ShidamiOtsuka14.jpg)
+
+
+
 （続く）
