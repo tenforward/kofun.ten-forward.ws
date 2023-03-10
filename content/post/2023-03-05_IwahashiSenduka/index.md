@@ -42,7 +42,7 @@ image: IwahashiSenduka022.jpg
 前山A13号墳は立派な石室がありそうですが、修復中ということで見学できませんでした。外から見ると良い形ですねえ。
 
 ![前山A24号墳案内板](IwahashiSenduka011.jpg)
-![前山A24号墳](IwahashiSenduka010.jpg)
+![前山A24号墳](IwahashiSenduka025.jpg)
 
 ![前山A24号墳](IwahashiSenduka012.jpg)
 ![前山A24号墳](IwahashiSenduka013.jpg)
@@ -51,5 +51,28 @@ image: IwahashiSenduka022.jpg
 ![前山A24号墳](IwahashiSenduka015.jpg)
 
 A24号墳は入り口の上に窓みたいに開いていますが、こちらは盗掘口だろうとのことです。
+
+![前山A23号墳](IwahashiSenduka019.jpg)
+![前山A23号墳](IwahashiSenduka022.jpg)
+
+A23号墳も梁があって高さも高く内部が立派ですね。
+
+![前山A32号墳](IwahashiSenduka027.jpg)
+![前山A32号墳](IwahashiSenduka028.jpg)
+
+![前山A32号墳](IwahashiSenduka030.jpg)
+![前山A32号墳](IwahashiSenduka031.jpg)
+
+![前山A32号墳](IwahashiSenduka032.jpg)
+![前山A32号墳](IwahashiSenduka034.jpg)
+
+A32号墳。
+
+![前山A47号墳](IwahashiSenduka035.jpg)
+![前山A47号墳](IwahashiSenduka036.jpg)
+![前山A47号墳](IwahashiSenduka037.jpg)
+
+A47号墳は埋まっていて上部だけ顔を出してる感じでしょうか。
+
 
 （続く）
