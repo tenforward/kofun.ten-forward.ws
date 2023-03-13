@@ -25,7 +25,7 @@ image: IwahashiSenduka022.jpg
 
 ## 前山 A 地区
 
-どこが古墳なのかわからないA9号墳。
+最初に出てきたのはどこが古墳なのかわからないA9号墳。
 
 ![前山A9号墳](IwahashiSenduka006.jpg)
 
