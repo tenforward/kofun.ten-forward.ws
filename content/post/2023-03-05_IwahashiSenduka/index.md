@@ -92,4 +92,27 @@ A46号墳は入り口もちゃんと整備され、中も照明があってじ�
 
 歩いてると A108 号墳みたいな感じでいい感じの膨らみがあります :-)
 
+前山A100号墳「円墳と考えられていますが、方墳の可能性が高い」どっち?
+
+![前山A100号墳案内板](IwahashiSenduka053.jpg)
+![前山A100号墳](IwahashiSenduka054.jpg)
+
+前山A99号墳。高さがあって立派な古墳です。
+
+![前山A99号墳案内板](IwahashiSenduka056.jpg)
+![前山A99号墳](IwahashiSenduka059.jpg)
+![前山A99号墳、100号墳](IwahashiSenduka062.jpg)
+
+きちんと埴輪が並べられ、きれいに復元されている前山A58号墳。
+
+![前山A58号墳](IwahashiSenduka055.jpg)
+![前山A58号墳](IwahashiSenduka063.jpg)
+
+![前山A58号墳案内板](IwahashiSenduka064.jpg)
+![前山A58号墳](IwahashiSenduka065.jpg)
+![前山A58号墳](IwahashiSenduka066.jpg)
+
+
+
+
 （続く）
