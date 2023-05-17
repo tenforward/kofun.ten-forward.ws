@@ -112,6 +112,11 @@ A46号墳は入り口もちゃんと整備され、中も照明があってじ�
 ![前山A58号墳](IwahashiSenduka065.jpg)
 ![前山A58号墳](IwahashiSenduka066.jpg)
 
+前山 A65 号墳
+
+![前山A65号墳案内板](IwahashiSenduka071.jpg)
+![前山A65号墳](IwahashiSenduka070.jpg)
+![前山A65号墳](IwahashiSenduka072.jpg)
 
 
 
