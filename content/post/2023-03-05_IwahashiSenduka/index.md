@@ -3,7 +3,7 @@ title: "岩橋千塚古墳群"
 date: 2023-03-05T23:45:00+09:00
 author: tenforward
 description: 
-tags: ["5世紀","6世紀"]
+tags: ["5世紀","6世紀","上円下方墳"]
 categories: ["和歌山県"]
 draft: false
 image: IwahashiSenduka022.jpg
