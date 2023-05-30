@@ -1,6 +1,6 @@
 ---
 title: "御嶽塚古墳"
-date: 2023-05-30T01:49:57+09:00
+date: 2023-05-22T12:30:00+09:00
 author: tenforward
 description: 
 categories: ["東京都"]
