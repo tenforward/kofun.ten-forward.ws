@@ -38,3 +38,4 @@ image: Shimoyabo2.jpg
 * [下谷保 1 号墳](https://kofun.info/kofun/1389) （古墳マップ）
 * [下谷保 2 号墳](https://kofun.info/kofun/1390) （古墳マップ）
 * [下谷保古墳群（しもやぼこふんぐん）、解体中の国立会館　＠東京都国立市谷保](https://massneko.hatenablog.com/entry/2014/11/05/180200) （墳丘からの眺め）
+* [下谷保 10 号墳](http://gogohiderin.blog.fc2.com/blog-entry-567.html) （古墳なう）
