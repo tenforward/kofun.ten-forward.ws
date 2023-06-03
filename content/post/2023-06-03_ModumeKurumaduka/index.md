@@ -5,7 +5,7 @@ author: tenforward
 description: 
 tags: ["6世紀中頃","前方後円墳"]
 categories: ["京都府"]
-draft: true
+draft: false
 image: ModumeKurumaduka10.jpg
 ---
 
