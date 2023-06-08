@@ -1,6 +1,6 @@
 ---
 title: "物集女車塚古墳"
-date: 2023-06-03T23:13:30+09:00
+date: 2023-06-03T13:30:00+09:00
 author: tenforward
 description: 
 tags: ["6世紀中頃","前方後円墳"]
