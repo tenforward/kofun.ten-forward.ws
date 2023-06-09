@@ -5,7 +5,7 @@ author: tenforward
 description: 
 tags: ["円墳","6世紀前半"]
 categories: ["東京都"]
-draft: true
+draft: false
 image: Takakura1.jpg
 ---
 
