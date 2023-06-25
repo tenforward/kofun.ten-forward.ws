@@ -131,5 +131,19 @@ image: ShidamiOtsuka1.jpg
 ![大久手 5 号墳](Okute5_5.jpg)
 ![大久手 5 号墳](Okute5_6.jpg)
 
+## 東大久手古墳
+
+この公園の中でこの古墳だけは囲いがあり、中には入れませんでした。だいぶ削られたものの、後円部は 2 段だったであろうという帆立貝形古墳とのことです。
+
+![東大久手古墳案内板](HigashiOkute3.jpg)
+
+![東大久手古墳](HigashiOkute1.jpg)
+![東大久手古墳](HigashiOkute2.jpg)
+![東大久手古墳](HigashiOkute4.jpg)
+
+![東大久手古墳](HigashiOkute5.jpg)
+![東大久手古墳](HigashiOkute6.jpg)
+
+いい膨らみですねえ。
 
 （続く）
