@@ -184,7 +184,7 @@ menu:
         url: /page/links
         weight: -100
         params:
-          icon: home
+          icon: link
           newTab: true
 
     social:
