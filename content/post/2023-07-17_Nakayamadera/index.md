@@ -3,7 +3,7 @@ title: "中山寺古墳（白鳥塚古墳）"
 date: 2023-07-17T13:50:00+09:00
 author: tenforward
 description: 
-tags: ["6世紀後半"]
+tags: ["6世紀後半","形状不明"]
 categories: ["兵庫県"]
 draft: false
 image: Nakayamadera4.jpg
