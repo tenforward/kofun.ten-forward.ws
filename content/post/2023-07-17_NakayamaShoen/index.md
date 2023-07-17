@@ -5,7 +5,7 @@ author: tenforward
 description: 
 tags: ["八角墳"]
 categories: ["兵庫県"]
-draft: true
+draft: false
 image: NakayamaShoen5.jpg
 ---
 
