@@ -3,7 +3,7 @@ title: "中山荘園古墳"
 date: 2023-07-17T14:30:00+09:00
 author: tenforward
 description: 
-tags: ["八角墳"]
+tags: ["八角墳","7世紀中頃"]
 categories: ["兵庫県"]
 draft: false
 image: NakayamaShoen5.jpg
