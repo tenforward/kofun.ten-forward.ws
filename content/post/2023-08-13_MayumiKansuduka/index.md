@@ -13,6 +13,8 @@ image: MayumiKansuduka5.jpg
 
 アグリステーション飛鳥から牽牛子塚古墳へのアクセス道の途中にあるのが真弓鑵子塚古墳です。分岐のすぐ脇に案内板がありましたが、雑草で隠れてて最初わからなかった。6世紀中〜後半の円墳のようです。
 
+玄室の奥に奥室ってのがある珍しい構造のようです。
+
 ![真弓鑵子塚古墳案内板](MayumiKansuduka4.jpg)
 
 ![真弓鑵子塚古墳](MayumiKansuduka5.jpg)
@@ -24,6 +26,9 @@ image: MayumiKansuduka5.jpg
 
 階段を上がっても特に何かある風でもなく、夏で茂みも深いのでそれ以上進むのはやめておきました（その後のキトラ古墳の予約時間が迫ってたし）。
 
+明日香村埋蔵文化財展示室に資料があるようですね。
 
+## 参考
 
-
+* [真弓鑵子塚古墳](https://www.asukamura.jp/gyosei_bunkazai_joho_mayumi.html) （明日香村）
+* [真弓鑵子塚古墳](https://asukamura.com/sightseeing/498/) （旅する明日香ネット）

@@ -22,9 +22,9 @@ image: Iwayayama6.jpg
 羨道が長く、きれいに巨石が積まれているところで後期感ありますね。天井とかすごく大きいですね。
 
 ![岩屋山古墳羨道](Iwayayama5.jpg)
-![岩屋山古墳石室](Iwayayama6.jpg)
+![岩屋山古墳玄室](Iwayayama6.jpg)
 
-![岩屋山古墳石室天井](Iwayayama7.jpg)
+![岩屋山古墳玄室天井](Iwayayama7.jpg)
 ![岩屋山古墳羨道、石室から](Iwayayama8.jpg)
 
 ![岩屋山古墳墳丘](Iwayayama9.jpg)
