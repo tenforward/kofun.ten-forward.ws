@@ -1,6 +1,6 @@
 ---
 title: 岩屋山古墳
-date: 2023-08-14T00:13:23+09:00
+date: 2023-08-13T13:30:00+09:00
 author: tenforward
 description: 
 tags: ["7世紀","方墳"]
