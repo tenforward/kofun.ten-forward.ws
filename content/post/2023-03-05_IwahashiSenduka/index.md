@@ -118,6 +118,16 @@ A46号墳は入り口もちゃんと整備され、中も照明があってじ�
 ![前山A65号墳](IwahashiSenduka070.jpg)
 ![前山A65号墳](IwahashiSenduka072.jpg)
 
+前山 A67 号墳。ここは中には入れませんが、開口部から中は覗けます。直径 27m の円墳で、A46 号と並ぶ大きさのようです。
+
+![前山A67号墳案内板](IwahashiSenduka079.jpg)
+![前山A67号墳](IwahashiSenduka073.jpg)
+![前山A67号墳](IwahashiSenduka078.jpg)
+
+![前山A67号墳](IwahashiSenduka074.jpg)
+![前山A67号墳](IwahashiSenduka076.jpg)
+![前山A67号墳](IwahashiSenduka077.jpg)
+
 
 
 （続く）
