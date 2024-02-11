@@ -1,11 +1,11 @@
 ---
 title: "高松塚古墳"
-date: 2024-02-11T22:59:24+09:00
+date: 2024-02-11T14:00:00+09:00
 author: tenforward
 description: 
 tags: ["円墳","7世紀後半","8世紀前半"]
 categories: ["奈良県"]
-draft: true
+draft: false
 image: Takamatsuduka4.jpg
 ---
 
