@@ -4,7 +4,7 @@ theme: hugo-theme-stack
 paginate: 5
 title: TenForward Kofun Log
 
-timeout: "60s"
+timeout: "120s"
 
 # Change it to your Disqus shortname before using
 # disqusShortname: hugo-theme-stack
