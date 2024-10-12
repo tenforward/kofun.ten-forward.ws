@@ -1,7 +1,7 @@
 baseurl: https://kofun.ten-forward.ws/
 languageCode: ja-jp
 theme: hugo-theme-stack
-paginate: 5
+pagination.pagerSize: 5
 title: TenForward Kofun Log
 
 timeout: "120s"
