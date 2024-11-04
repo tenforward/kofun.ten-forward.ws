@@ -3,7 +3,7 @@ title: "山名古墳群"
 date: 2024-11-04T10:00:00+09:00
 author: tenforward
 description: 
-tags: ["6世紀後半","7世紀前半","円墳","山名伊勢塚古墳"]
+tags: ["6世紀後半","7世紀前半","円墳","前方後円墳"]
 categories: ["群馬県"]
 draft: false
 image: Yamana36.jpg
