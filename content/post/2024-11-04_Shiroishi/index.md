@@ -99,3 +99,7 @@ image: Nanakoshiyama11.jpg
 
 ---
 この周辺には小さな古墳が大量にあるのですが、帰りの時間が迫っていたので、再び伊勢塚古墳を通って山名駅へ。
+
+## 参考
+
+* [群馬県藤岡市の古墳一覧](http://kofunnomori.web.fc2.com/gunma/fujioka/list_fujioka.htm) （古墳の森）
