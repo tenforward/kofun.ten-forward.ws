@@ -92,9 +92,9 @@ image: Maiko2_3.jpg
 2号墳は Google Map でもポイントはあるのですが、どこかわかりません。
 
 ![尼ケ谷支群2号墳付近](Amagatani3.jpg)
-![尼ケ谷支群](Amagatani4.jpg)
+![尼ケ谷支群10号墳](Amagatani4.jpg)
 
-![尼ケ谷支群10号墳](Amagatani5.jpg)
+![尼ケ谷支群9号墳](Amagatani5.jpg)
 ![尼ケ谷支群9号墳](Amagatani6.jpg)
 
 ## 参考
