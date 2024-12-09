@@ -6,7 +6,7 @@ description:
 tags: ["6世紀","円墳"]
 categories: ["兵庫県"]
 draft: false
-image: 
+image: Maiko2_3.jpg
 ---
 
 五色塚古墳のイベントに行く前にどこかに寄れないかなと思って選んだのが舞子古墳群。舞子霊園内にあります。現代の墓地の中の古墳はたまにありますね。
