@@ -6,7 +6,7 @@ description:
 tags: ["4世紀後半","5世紀前半","円墳","前方後円墳"]
 categories: ["兵庫県"]
 draft: false
-image:
+image: Goshikiduka9.jpg
 ---
 
 [舞子古墳群](/post/2024-12-06_maiko/)を見た後は、そのまま歩いて五色塚古墳へ。
