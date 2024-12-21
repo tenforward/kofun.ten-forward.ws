@@ -1,5 +1,5 @@
 ---
-title: "摩利支天塚古墳"
+title: "本郷古墳・摩利支天塚古墳"
 date: 2024-12-21T11:30:00+09:00
 author: tenforward
 description: 
