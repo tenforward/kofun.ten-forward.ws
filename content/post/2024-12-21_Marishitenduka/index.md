@@ -3,8 +3,8 @@ title: "本郷古墳・摩利支天塚古墳"
 date: 2024-12-21T11:30:00+09:00
 author: tenforward
 description: 
-tags: ["栃木県"]
-categories: ["前方後円墳","5世紀後半","6世紀前半"]
+tags: ["前方後円墳","5世紀後半","6世紀前半"]
+categories: ["栃木県"]
 draft: false
 image: Marishitenduka3.jpg
 ---
