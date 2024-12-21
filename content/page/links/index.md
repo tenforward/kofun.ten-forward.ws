@@ -15,3 +15,5 @@ image:
   とにかくすごい網羅性
 * [古墳にワクワク](http://kofunwodougademiru78.publog.jp/)  
   古墳を訪問してすべて動画で記録されているすごいサイト
+* [古墳の森探検日誌](http://kofunnomori.web.fc2.com/#gsc.tab=0)  
+  資料を詳細に当たって訪問し、レポートを書かれている印象
