@@ -122,3 +122,10 @@ image: Maruzuka2.jpg
 
 ----
 このあとは壬生町の吾妻古墳へ。
+
+## 参考
+
+* [栃木県下野市（国分寺町）の古墳一覧](http://kofunnomori.web.fc2.com/tochigi/koku/list_kokubunji.htm) （古墳の森）
+* [シンポジウム 未来をひらけ! しもつけ古墳群](https://www.city.shimotsuke.lg.jp/manage/contents/upload/5c0df7c5964f5.pdf)
+* [下野市の主な古墳](https://www.city.shimotsuke.lg.jp/0393/info-0000000476-3.html) （下野市）
+* [しもつけ市の文化財バーチャルミュージアム](http://www.shimotsuke-bunkazai.com/list.php?area=&group=&type=&period=5#pttl)
