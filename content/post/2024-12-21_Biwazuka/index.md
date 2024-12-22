@@ -6,7 +6,7 @@ description:
 tags: ["前方後円墳","帆立貝形古墳","6世紀"]
 categories: ["栃木県"]
 draft: false
-image:
+image: Biwazuka13.jpg
 ---
 
 [摩利支天塚古墳](/post/2024-12-21_marishitenduka/)のあとは、飯塚古墳群に寄ったあと、琵琶塚古墳へ。どちらも小山市です。
@@ -52,6 +52,8 @@ image:
 琵琶塚古墳も、摩利支天塚古墳と並んで 100m 超の巨大な 3 段築造の前方後円墳です。6 世紀前半の築造のようです。
 
 ![琵琶塚古墳案内板](Biwazuka9.jpg)
+
+![琵琶塚古墳](Biwaduka13.jpg)
 
 ![琵琶塚古墳](Biwazuka1.jpg)
 ![琵琶塚古墳](Biwazuka3.jpg)
