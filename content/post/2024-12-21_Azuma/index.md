@@ -13,7 +13,7 @@ image: Azuma4.jpg
 
 周りを工場に囲まれた森という感じで、工業地帯の中で保存されたエリアという感じですね。
 
-Google Map で南から行くと、[このあたり](https://maps.app.goo.gl/nJLLhR63p4pEhkjJA)から入れと言われるのですが、実際はさらに北に回り込んむと、[工場の前に入口の看板があります](https://maps.app.goo.gl/t8PSSDUBCrLEfEMR6)（写真参照）。
+Google Map で南から行くと、[このあたり](https://maps.app.goo.gl/nJLLhR63p4pEhkjJA)から入れと言われるのですが、実際はさらに北に回り込むと、[工場の前に入口の看板があります](https://maps.app.goo.gl/t8PSSDUBCrLEfEMR6)（写真参照）。
 
 6 世紀後半の前方後円墳で、近年の調査で栃木県最大の古墳ということが判明したようです。
 
