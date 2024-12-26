@@ -3,7 +3,7 @@ title: さきたま古墳公園
 date: 2024-05-27T13:00:00+09:00
 author: tenforward
 description: 
-tags: ["5世紀後半","6世紀","7世紀前半","7世紀中頃"]
+tags: ["5世紀後半","6世紀","7世紀前半","7世紀中頃","円墳","前方後円墳"]
 categories: ["埼玉県"]
 draft: false
 image: sakitama133.jpg
@@ -111,6 +111,8 @@ JR行田駅からも5kmほどのようなので、古墳巡りだとそれぐら
 ![二子山古墳](sakitama055.jpg)
 ![二子山古墳](sakitama057.jpg)
 
+![稲荷山古墳から見た二子山古墳](sakitama084.jpg)
+
 ## 将軍山古墳
 
 埼玉古墳群の北東に将軍山古墳があります。ここは、内部が[展示館](https://sakitama-muse.spec.ed.jp/exhibition/shogunyama)になっているのですが、行った日は残念ながら月曜日ということで、私あるあるなのですが、見学できず。
@@ -123,5 +125,95 @@ JR行田駅からも5kmほどのようなので、古墳巡りだとそれぐら
 ![将軍山古墳展示館](sakitama061.jpg)
 
 ![将軍山古墳](sakitama062.jpg)
+
+## 稲荷山古墳
+
+全長 120m の前方後円墳。5 世紀後半の築造のようです。この古墳の副葬品の鉄剣は国宝にされています。
+
+![稲荷山古墳案内板](sakitama067.jpg)
+
+![稲荷山古墳](sakitama066.jpg)
+![稲荷山古墳](sakitama068.jpg)
+
+![稲荷山古墳](sakitama069.jpg)
+![稲荷山古墳](sakitama071.jpg)
+
+![稲荷山古墳](sakitama072.jpg)
+![稲荷山古墳](sakitama073.jpg)
+
+![稲荷山古墳](sakitama074.jpg)
+![稲荷山古墳](sakitama076.jpg)
+
+![稲荷山古墳](sakitama077.jpg)
+![稲荷山古墳](sakitama078.jpg)
+
+![稲荷山古墳](sakitama079.jpg)
+![稲荷山古墳](sakitama083.jpg)
+
+![稲荷山古墳](sakitama085.jpg)
+![稲荷山古墳](sakitama086.jpg)
+
+![稲荷山古墳](sakitama089.jpg)
+![稲荷山古墳](sakitama090.jpg)
+
+## 丸墓山古墳
+
+![丸墓山古墳とまわりの小円墳](sakitama064.jpg)
+![丸墓山古墳とまわりの小円墳](sakitama065.jpg)
+
+![稲荷山古墳から見た丸墓山古墳](sakitama075.jpg)
+![稲荷山古墳から見た丸墓山古墳](sakitama080.jpg)
+
+![稲荷山古墳から見た丸墓山古墳](sakitama081.jpg)
+![稲荷山古墳から見た丸墓山古墳](sakitama082.jpg)
+
+![稲荷山古墳から見た丸墓山古墳](sakitama087.jpg)
+![丸墓山古墳](sakitama088.jpg)
+
+----
+さきたま古墳公園から川を渡って北側にも小さな古墳があります。
+
+![埼玉古墳群（長野地区の古墳）案内板](sakitama094.jpg)
+
+## 白山愛宕山古墳
+
+公園に一番近くにあるのが白山愛宕山古墳です。と言っても、どこ? 😂
+
+5 世紀末の円墳のようです。墳丘の一部が残っているようですね。
+
+![白山愛宕山古墳案内板](sakitama095.jpg)
+
+![白山愛宕山古墳](sakitama106.jpg)
+![白山愛宕山古墳](sakitama107.jpg)
+
+![白山愛宕山古墳](sakitama108.jpg)
+![白山愛宕山古墳](sakitama109.jpg)
+
+![白山愛宕山古墳](sakitama096.jpg)
+![白山愛宕山古墳から稲荷山古墳](sakitama097.jpg)
+
+## 神明山古墳
+
+白山愛宕山古墳のすぐ北側、ソーラーパネルの向こう側が神明山古墳のようです。
+
+詳細は不明ですが、6世紀の円墳のようです。
+
+![神明山古墳](sakitama098.jpg)
+![神明山古墳](sakitama099.jpg)
+
+![神明山古墳](sakitama100.jpg)
+![神明山古墳](sakitama101.jpg)
+
+## 白山古墳
+
+神明山古墳からさらに北に行くと白山姫神社があり、そこが白山古墳です。直径 50m の円墳のようです。
+
+![白山古墳案内板](sakitama104.jpg)
+
+![白山古墳](sakitama102.jpg)
+![白山古墳](sakitama103.jpg)
+
+![白山古墳](sakitama105.jpg)
+
 
 （続く）
