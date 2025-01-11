@@ -1,5 +1,5 @@
 ---
-title: "新沢千塚古墳公園"
+title: "新沢千塚古墳群公園"
 date: 2024-04-06T15:00:00+09:00
 author: tenforward
 description: 
