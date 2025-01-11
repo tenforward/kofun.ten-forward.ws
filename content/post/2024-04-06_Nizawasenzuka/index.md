@@ -9,6 +9,8 @@ draft: false
 image: Niizawasenzuka27.jpg
 ---
 
+（作成中）
+
 ## 橿原考古学研究所付属博物館
 
 ![橿原考古学研究所付属博物館](Niizawasenzuka1.jpg)
