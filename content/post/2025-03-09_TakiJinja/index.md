@@ -6,7 +6,7 @@ description:
 tags: ["円墳","6世紀後半","7世紀前半"]
 categories: ["愛媛県"]
 draft: false
-image:
+image: Takijinja_22.jpg
 ---
 
 野々瀬古墳群から車で 10 分くらいのところに多伎神社古墳群（多岐宮古墳群）があります。
