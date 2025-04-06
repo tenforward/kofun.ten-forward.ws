@@ -71,6 +71,56 @@ image: Kanjo_2.jpg
 ![与楽鑵子塚古墳](Kansuzuka_7.jpg)
 ![与楽鑵子塚古墳](Kansuzuka_8.jpg)
 
+## 寺崎白壁塚古墳
+
+この日ふたつめの特別公開は寺崎白壁塚古墳でした。カンジョ古墳から少し歩くと、丘の斜面に見えてきます。
+
+![寺崎白壁塚古墳案内板](Shirakabezuka_1.jpg)
+![寺崎白壁塚古墳](Shirakabezuka_2.jpg)
+
+見事な石室ですね。横口式石棺見るの初めてかも。
+
+![寺崎白壁塚古墳](Shirakabezuka_3.jpg)
+![寺崎白壁塚古墳](Shirakabezuka_4.jpg)
+
+![寺崎白壁塚古墳](Shirakabezuka_5.jpg)
+![寺崎白壁塚古墳](Shirakabezuka_6.jpg)
+
+![寺崎白壁塚古墳](Shirakabezuka_7.jpg)
+![寺崎白壁塚古墳](Shirakabezuka_8.jpg)
+
+![寺崎白壁塚古墳](Shirakabezuka_9.jpg)
+![寺崎白壁塚古墳](Shirakabezuka_10.jpg)
+
+![寺崎白壁塚古墳](Shirakabezuka_11.jpg)
+![寺崎白壁塚古墳](Shirakabezuka_12.jpg)
+
+## 発掘中の古墳
+
+寺崎白壁塚古墳が見える位置まで来ると、もうひとつ古墳らしき石が見えます。
+
+現地の方に聞くと、今発掘中の古墳で名前はないらしいです。関係者の間では「東古墳」と呼んでるとのことでした。
+
+![寺崎白壁塚古墳の近くの発掘中の古墳](Higashi_1.jpg)
+![寺崎白壁塚古墳の近くの発掘中の古墳](Higashi_2.jpg)
+
+石室もちゃんと残ってますね。少し空いた隙間から中をパチリ。
+
+![寺崎白壁塚古墳の近くの発掘中の古墳](Higashi_3.jpg)
+![寺崎白壁塚古墳の近くの発掘中の古墳](Higashi_6.jpg)
+
+石室の上の方から少し掘っている感じですね。
+
+![寺崎白壁塚古墳の近くの発掘中の古墳](Higashi_4.jpg)
+![寺崎白壁塚古墳の近くの発掘中の古墳](Higashi_5.jpg)
+![寺崎白壁塚古墳の近くの発掘中の古墳](Higashi_7.jpg)
+
+
+
+
+これと反対側の森の方にももうひとつ古墳があるとのことでした。
+
+
 ## 参考
 
 * [カンジョ古墳](https://sightseeing2.takatori.info/kanjyo/) （高取町観光ガイド）
