@@ -1,6 +1,6 @@
 ---
 title: "与楽古墳群"
-date: 2025-03-23T:13:30+09:00
+date: 2025-03-23T13:30:00+09:00
 author: tenforward
 description: 
 tags: ["方墳","6世紀末","7世紀前半"]
