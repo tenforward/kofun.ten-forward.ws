@@ -42,15 +42,15 @@ image: Chihara_1.jpg
 ![慶運寺](Keiunji_9.jpg)
 ![慶運寺石仏と古墳案内板](Keiunji_10.jpg)
 
-![慶運寺古墳案内板](Keiunji_11.jpg)
-![慶運寺古墳](Keiunji_12.jpg)
+![慶運寺裏古墳案内板](Keiunji_11.jpg)
+![慶運寺裏古墳](Keiunji_12.jpg)
 
-![慶運寺古墳石室](Keiunji_13.jpg)
-![慶運寺古墳石室](Keiunji_14.jpg)
-![慶運寺古墳石室](Keiunji_15.jpg)
+![慶運寺裏古墳石室](Keiunji_13.jpg)
+![慶運寺裏古墳石室](Keiunji_14.jpg)
+![慶運寺裏古墳石室](Keiunji_15.jpg)
 
-![慶運寺古墳](Keiunji_16.jpg)
-![慶運寺古墳](Keiunji_17.jpg)
+![慶運寺裏古墳](Keiunji_16.jpg)
+![慶運寺裏古墳](Keiunji_17.jpg)
 
 （続く）
 
