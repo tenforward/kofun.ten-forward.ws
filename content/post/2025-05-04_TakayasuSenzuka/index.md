@@ -9,6 +9,8 @@ draft: false
 image: Shuntoku_10.jpg
 ---
 
+「大窪・山畑」は「おおくぼ・やまたけ」と読みます。
+
 ## 俊徳丸鏡塚古墳（大窪・山畑 27 号墳）
 
 ![俊徳丸鏡塚古墳](Shuntoku_1.jpg)
@@ -25,3 +27,32 @@ image: Shuntoku_10.jpg
 
 ![俊徳丸鏡塚古墳](Shuntoku_9.jpg)
 ![俊徳丸鏡塚古墳](Shuntoku_10.jpg)
+
+----
+こんな感じの道を歩いていきます。
+
+![俊徳丸鏡塚古墳から39号墳への道](OkuboYamatake39_1.jpg)
+![俊徳丸鏡塚古墳から39号墳への道](OkuboYamatake39_2.jpg)
+
+少し太い農道に出るとこんな擁壁があり、その裏側にあります。開口部が少し見つけづらいかも?
+
+![大窪・山畑39号墳前の擁壁](OkuboYamatake39_9.jpg)
+
+----
+
+## 大窪・山畑 39 号墳
+
+![大窪・山畑39号墳](OkuboYamatake39_3.jpg)
+![大窪・山畑39号墳](OkuboYamatake39_4.jpg)
+
+![大窪・山畑39号墳](OkuboYamatake39_5.jpg)
+![大窪・山畑39号墳](OkuboYamatake39_6.jpg)
+
+![大窪・山畑39号墳](OkuboYamatake39_7.jpg)
+![擁壁脇から入って左側に存在（写真の左が道と擁壁）](OkuboYamatake39_8.jpg)
+
+
+
+
+
+
