@@ -3,7 +3,7 @@ title: "高安千塚古墳群 大窪・山畑支群"
 date: 2025-05-04T14:00:00+09:00
 author: tenforward
 description: 
-tags: ["円墳","6世紀後半","6世紀前半"]
+tags: ["円墳","6世紀後半","6世紀前半","6世紀中頃"]
 categories: ["大阪府"]
 draft: false
 image: Shuntoku_10.jpg
@@ -12,6 +12,8 @@ image: Shuntoku_10.jpg
 「大窪・山畑」は「おおくぼ・やまたけ」と読みます。
 
 道は「[しおんじやま&高安千塚古墳群散策マップ](https://racco-taiken.com/sionji/coloringbook/sionjimap1takayasu2020.pdf)を見るとわかりやすいでしょう。
+
+私は服部川駅前のコインパーキング（24h300円）に止めましたが、結構埋まっていたので駐車場所は常にあるかどうかはわかりません。
 
 ## 俊徳丸鏡塚古墳（大窪・山畑 27 号墳）
 
@@ -91,6 +93,21 @@ image: Shuntoku_10.jpg
 
 ![大窪・山畑 6 号墳](OkuboYamatake6_1.jpg)
 ![大窪・山畑 6 号墳](OkuboYamatake6_2.jpg)
+
+## 大窪・山畑 8 号墳
+
+6 号墳よりさらに上に上がったところの墓地の奥の方にあります。20m ほどの円墳だったようですが、まわりのお墓になってしまっているようです。しかし、石室は立派に残っています。6 世紀中頃の古墳とのことです。
+
+![大窪・山畑 8 号墳](OkuboYamatake8_1.jpg)
+![大窪・山畑 8 号墳](OkuboYamatake8_2.jpg)
+
+![大窪・山畑 8 号墳](OkuboYamatake8_3.jpg)
+![大窪・山畑 8 号墳](OkuboYamatake8_4.jpg)
+
+![大窪・山畑 8 号墳](OkuboYamatake8_5.jpg)
+![大窪・山畑 8 号墳](OkuboYamatake8_6.jpg)
+![大窪・山畑 8 号墳](OkuboYamatake8_7.jpg)
+
 
 
 ## 参考
