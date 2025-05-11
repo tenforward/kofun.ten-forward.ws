@@ -11,7 +11,7 @@ image: Shuntoku_10.jpg
 
 「大窪・山畑」は「おおくぼ・やまたけ」と読みます。
 
-道は「[しおんじやま&高安千塚古墳群散策マップ](https://racco-taiken.com/sionji/coloringbook/sionjimap1takayasu2020.pdf)を見るとわかりやすいでしょう。
+道は「[しおんじやま&高安千塚古墳群散策マップ](https://racco-taiken.com/sionji/coloringbook/sionjimap1takayasu2020.pdf)」を見るとわかりやすいでしょう。
 
 私は服部川駅前のコインパーキング（24h300円）に止めましたが、結構埋まっていたので駐車場所は常にあるかどうかはわかりません。
 
