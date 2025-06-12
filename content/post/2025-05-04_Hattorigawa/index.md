@@ -99,8 +99,19 @@ image: Hattorigawa42_3.jpg
 ![服部川 73 号墳](Hattorigawa73_8.jpg)
 ![服部川 73 号墳](Hattorigawa73_9.jpg)
 
+## 服部川 78 号墳
 
+18m ほどの大きさの円墳です。ここは名前を書いた標識が立てられているのでわかりやすいです。保存も良いですね。
 
+![服部川 78 号墳](Hattorigawa78_1.jpg)
+![服部川 78 号墳](Hattorigawa78_2.jpg)
+
+![服部川 78 号墳](Hattorigawa78_3.jpg)
+![服部川 78 号墳](Hattorigawa78_4.jpg)
+![服部川 78 号墳](Hattorigawa78_5.jpg)
+
+![服部川 78 号墳](Hattorigawa78_6.jpg)
+![服部川 78 号墳](Hattorigawa78_7.jpg)
 
 
 （続く）
