@@ -113,5 +113,37 @@ image: Hattorigawa42_3.jpg
 ![服部川 78 号墳](Hattorigawa78_6.jpg)
 ![服部川 78 号墳](Hattorigawa78_7.jpg)
 
+## 服部川 110 号墳
+
+78 号墳から山の方に入るといくつか古墳が並んでいるのが見えました。
+
+そのひとつがこの（たぶん）110 号墳です。上に木が生えてたり、石の間にすきまは開いてますがきれいに残ってますよね。14m ほどの右肩袖式石室の円墳のようです。
+
+![服部川 110 号墳](Hattorigawa110_1.jpg)
+![服部川 110 号墳](Hattorigawa110_2.jpg)
+
+![服部川 110 号墳](Hattorigawa110_3.jpg)
+![服部川 110 号墳](Hattorigawa110_4.jpg)
+
+![服部川 110 号墳](Hattorigawa110_5.jpg)
+![服部川 110 号墳](Hattorigawa110_6.jpg)
+
+## 服部川 111 号墳
+
+110 号墳と並んで 111 号墳（と思われる古墳）があります。
+
+12m ほどの円墳で、天井石がひとつ失われています。
+
+![110号墳（手前）と並ぶ111号墳（奥）](Hattorigawa111_1.jpg)
+![服部川 111 号墳](Hattorigawa111_2.jpg)
+
+![服部川 111 号墳](Hattorigawa111_3.jpg)
+![服部川 111 号墳](Hattorigawa111_4.jpg)
+
+![服部川 111 号墳](Hattorigawa111_5.jpg)
+![服部川 111 号墳](Hattorigawa111_6.jpg)
+
+![服部川 111 号墳](Hattorigawa111_7.jpg)
+![服部川 111 号墳](Hattorigawa111_8.jpg)
 
 （続く）
