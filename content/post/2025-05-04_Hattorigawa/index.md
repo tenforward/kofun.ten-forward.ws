@@ -167,6 +167,30 @@ image: Hattorigawa42_3.jpg
 
 ![服部川 8 号墳裏側](Hattorigawa8_7.jpg)
 
+## 二室塚古墳（服部川 25 号墳）
 
+8 号墳の脇を進み、さらに農道を入った所にあります。
+
+珍しい重要な古墳なのにブルーシートがかかってたりして痛々しい…
+
+![二室塚古墳](Hattorigawa25_1.jpg)
+![二室塚古墳](Hattorigawa25_10.jpg)
+
+この古墳は右肩袖式の玄室を縦に 2 つ連結した珍しい古墳です。いや〜、興奮しますね!!
+
+![二室塚古墳案内板](Hattorigawa25_2.jpg)
+
+![二室塚古墳](Hattorigawa25_3.jpg)
+
+![二室塚古墳](Hattorigawa25_4.jpg)
+![二室塚古墳](Hattorigawa25_5.jpg)
+
+![二室塚古墳](Hattorigawa25_6.jpg)
+![二室塚古墳](Hattorigawa25_7.jpg)
+
+![二室塚古墳](Hattorigawa25_8.jpg)
+![二室塚古墳](Hattorigawa25_9.jpg)
+
+写真ではわかりづらいかもしれませんが、区切られた部屋が 2 つあります。
 
 （続く）
