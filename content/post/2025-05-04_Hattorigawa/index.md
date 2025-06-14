@@ -193,4 +193,27 @@ image: Hattorigawa42_3.jpg
 
 写真ではわかりづらいかもしれませんが、区切られた部屋が 2 つあります。
 
+* [二室塚古墳](http://www.yaomania.jp/data/InfoDetail.asp?id=1434) （八尾市観光データベース）
+
+## 服部川 9 号墳
+
+8 号墳から墓地の方に入り（途中で二室塚への分岐）まっすぐすすむと、現代のお墓の奥に 9 号墳があります。
+
+15m ほどの円墳で、右肩袖式です。墳丘上部に木が生えてますが、羨道や玄室は結構ちゃんと残ってるんじゃないですかね。
+
+![服部川 9 号墳](Hattorigawa9_1.jpg)
+
+![服部川 9 号墳](Hattorigawa9_2.jpg)
+![服部川 9 号墳](Hattorigawa9_3.jpg)
+
+![服部川 9 号墳](Hattorigawa9_4.jpg)
+![服部川 9 号墳](Hattorigawa9_5.jpg)
+![服部川 9 号墳](Hattorigawa9_6.jpg)
+
+![服部川 9 号墳](Hattorigawa9_7.jpg)
+![服部川 9 号墳](Hattorigawa9_8.jpg)
+
+中にユンボとか置いてあって物置状態ですが、玄室はしっかり残っています。
+
+
 （続く）
