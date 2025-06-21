@@ -227,7 +227,7 @@ image: Hattorigawa42_3.jpg
 
 ![服部川 10 号墳](Hattorigawa10_5.jpg)
 ![服部川 10 号墳](Hattorigawa10_6.jpg)
-![服部川 10 号墳](Hattorigawa7_7.jpg)
+![服部川 10 号墳](Hattorigawa10_7.jpg)
 
 
 （続く）
