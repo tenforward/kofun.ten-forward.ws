@@ -215,19 +215,19 @@ image: Hattorigawa42_3.jpg
 
 中にユンボとか置いてあって物置状態ですが、玄室はしっかり残っています。
 
-## 服部川 7 号墳
+## 服部川 10 号墳
 
 78 号墳から山を降りてきた道沿いにあるわかりやすい古墳です。20m ほどの円墳で、石室の状態も良好です。外観は（ある意味）きれいに整備されてますが…
 
-![服部川 7 号墳](Hattorigawa7_1.jpg)
-![服部川 7 号墳](Hattorigawa7_2.jpg)
+![服部川 10 号墳](Hattorigawa10_1.jpg)
+![服部川 10 号墳](Hattorigawa10_2.jpg)
 
-![服部川 7 号墳](Hattorigawa7_3.jpg)
-![服部川 7 号墳](Hattorigawa7_4.jpg)
+![服部川 10 号墳](Hattorigawa10_3.jpg)
+![服部川 10 号墳](Hattorigawa10_4.jpg)
 
-![服部川 7 号墳](Hattorigawa7_5.jpg)
-![服部川 7 号墳](Hattorigawa7_6.jpg)
-![服部川 7 号墳](Hattorigawa7_7.jpg)
+![服部川 10 号墳](Hattorigawa10_5.jpg)
+![服部川 10 号墳](Hattorigawa10_6.jpg)
+![服部川 10 号墳](Hattorigawa7_7.jpg)
 
 
 （続く）
