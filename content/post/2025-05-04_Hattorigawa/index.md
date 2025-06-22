@@ -241,7 +241,7 @@ image: Hattorigawa42_3.jpg
 
 ![何号墳かわからない古墳](Hattorigawa1718_1.jpg)
 
-## 服部川 18 号墳
+## 服部川 17 号墳
 
 ![服部川 17 号墳](Hattorigawa1718_2.jpg)
 ![服部川 17 号墳](Hattorigawa1718_3.jpg)
