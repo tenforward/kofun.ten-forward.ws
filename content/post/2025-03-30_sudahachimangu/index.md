@@ -25,7 +25,7 @@ image: SudaHachimangu_7.jpg
 
 すると少し開けて赤い自動車と廃工場が見えますので、その右隣のふくらみが古墳です。
 
-{{< video src=/post/2025-03-30_sumidahachimangu/Sumida2.mp4 >}}
+{{< video src=/post/2025-03-30_sudahachimangu/Sumida2.mp4 >}}
 
 ここは開口部から見ると裏側っぽいので、この盛り上がった部分に沿ってぐるっと回っていきます。すると開口部がちらっと見えます。
 
