@@ -29,3 +29,9 @@ image: Hyoutanyama_2.jpg
 ![瓢箪山古墳](Hyoutanyama_9.jpg)
 ![瓢箪山古墳](Hyoutanyama_10.jpg)
 ![瓢箪山古墳](Hyoutanyama_11.jpg)
+
+ところでこの古墳、案内板は 6 世紀前半とありますが、Wikipedia なんかは 6 世紀後半とあります。どっち?
+
+## 参考
+
+* [瓢箪山稲荷神社](https://www.hyotanyama-inari.com/)
