@@ -120,8 +120,8 @@ image: Sokuchondon3_1.jpg
 
 ![石村洞古墳群3号土杭墓案内板](Sokuchondon3_Dokobo_1.jpg)
 
-![石村洞古墳群2号土杭墓](Sokuchondon3_Dokobo_2.jpg)
-![石村洞古墳群2号土杭墓](Sokuchondon3_Dokobo_3.jpg)
+![石村洞古墳群3号土杭墓](Sokuchondon3_Dokobo_2.jpg)
+![石村洞古墳群3号土杭墓](Sokuchondon3_Dokobo_3.jpg)
 
 ----
 
