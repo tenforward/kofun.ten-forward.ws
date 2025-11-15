@@ -3,7 +3,7 @@ title: "賤機山古墳群"
 date: 2025-10-13T12:30:00+09:00
 author: tenforward
 description: 
-tags: ["円墳","6世紀後半"]
+tags: ["円墳","6世紀後半","5世紀"]
 categories: ["静岡県"]
 draft: false
 image: Shizuhatayama_13.jpg
