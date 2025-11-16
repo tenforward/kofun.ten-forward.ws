@@ -9,9 +9,9 @@ draft: false
 image: Shizuhatayama_13.jpg
 ---
 
-この日はフェスに参加するために静岡にいたのですが、夕方まで時間があったので行ってきました、古墳。
+この日は[フェス](https://magma.progrock.jp/music/?p=9241)に参加するために静岡にいたのですが、夕方まで時間があったので行ってきました、古墳。
 
-賤機山古墳と言われる 3 号墳は、中心部から少し歩くとある[静岡浅間神社](http://www.shizuokasengen.net/)境内にあります。
+賤機山（しずはたやま）古墳と言われる 3 号墳は、中心部から少し歩くとある[静岡浅間神社](http://www.shizuokasengen.net/)境内にあります。
 
 ![静岡浅間神社](Shizuhatayama_1.jpg)
 ![賤機山古墳への石段](Shizuhatayama_2.jpg)
