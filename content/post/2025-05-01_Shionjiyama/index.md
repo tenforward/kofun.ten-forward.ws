@@ -75,3 +75,8 @@ image: Shionjiyama_26.jpg
 ![心合寺山古墳](Shionjiyama_25.jpg)
 ![心合寺山古墳](Shionjiyama_26.jpg)
 
+## 参考
+
+* [八尾市立しおんじやま古墳学習館](https://racco-taiken.com/sionji/)
+* [心合寺山古墳](https://web-lib.city.yao.osaka.jp/digital/archive/yao_14.html) （八尾市立図書館）
+* [](https://note.com/haniwa_emperor) （ハニワこうてい）
