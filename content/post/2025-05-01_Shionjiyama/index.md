@@ -33,7 +33,7 @@ image: Shionjiyama_26.jpg
 ![心合寺山古墳](Shionjiyama_2.jpg)
 ![心合寺山古墳](Shionjiyama_3.jpg)
 
-公園部には桐の木があります。春（4月頃?）には花が咲いてきれいではないでしょうか。
+後円部には桐の木があります。春（4月頃?）には花が咲いてきれいではないでしょうか。
 
 ![心合寺山古墳](Shionjiyama_4.jpg)
 ![心合寺山古墳](Shionjiyama_5.jpg)
