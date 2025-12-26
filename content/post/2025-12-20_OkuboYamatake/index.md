@@ -135,6 +135,11 @@ image: OkuboYamatake1_1.jpg
 
 このあとは、すでに前回見ている 6, 7, 8 号墳を軽く見学して帰路につきました。
 
+Google Map に、1 号墳と 2 号墳を地点登録してあります。どの程度正確かは知りませんが(^^
+
+* [1 号墳](https://maps.app.goo.gl/GA7vSQs4YinX6teD9)
+* [2 号墳](https://maps.app.goo.gl/AwAr9jh61z4dRWn47)
+
 ## 参考
 
 * [大和國古墳墓取調室](http://obito1.web.fc2.com/yaotakaookita.html)
