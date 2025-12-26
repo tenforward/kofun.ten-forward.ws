@@ -148,3 +148,4 @@ Google Map に、1 号墳と 2 号墳を地点登録してあります。どの�
 * [大和國古墳墓取調室](http://obito1.web.fc2.com/yaotakaookita.html)
 * [高安古墳群　分布・測量調査報告書　郡川地区詳細分布調査　市史跡大窪・山畑７号・８号墳測量等調査　他](https://sitereports.nabunken.go.jp/ja/4500)
 * [高安古墳群　分布・測量調査報告書　大窪・山畑南地区詳細分布調査　市史跡・二室塚古墳測量等調査　他](https://takayasu-machikyo.com/img/file51.pdf)
+* [高安古墳群](https://takayasu-machikyo.com/posts/spot1.html) （高安小中学校区まちづくり協議会）（その他の調査資料などがあります）
