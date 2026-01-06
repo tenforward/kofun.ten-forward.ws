@@ -63,6 +63,8 @@ image: Amagoiyama_24.jpg
 ![天乞山古墳（南東側造出）](Amagoiyama_21.jpg)
 ![天乞山古墳（北西側造出）](Amagoiyama_22.jpg)
 
+久保田山古墳からの眺めが良いですねえ。
+
 ![天乞山古墳と愛車](Amagoiyama_23.jpg)
 ![久保田山古墳から望む天乞山古墳](Amagoiyama_25.jpg)
 
