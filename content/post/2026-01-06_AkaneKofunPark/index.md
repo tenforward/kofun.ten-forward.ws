@@ -19,6 +19,9 @@ image: Amagoiyama_24.jpg
 
 他は名神高速道路建設に伴う耕作地の代替地として壊されたようですね（現地調査はされている）。
 
+![あかね古墳公園案内板](Kubotayama_24.jpg)
+![あかね古墳公園案内板](Kubotayama_25.jpg)
+
 ## 天乞山古墳
 
 北西と南東に造出がある、真北からは43度ほど傾いた、一辺約 65m の大きな方墳です。北西が大きめの造出で、南東な少し小さめです。
@@ -71,6 +74,54 @@ image: Amagoiyama_24.jpg
 ![天乞山古墳](Amagoiyama_24.jpg)
 
 ## 久保田山古墳
+
+天乞山古墳と道を挟んで反対側に久保田山古墳があります。南北に造出がある 2 段築成の円墳です。
+
+![久保田山古墳案内板](Kubotayama_23.jpg)
+
+直径 57m ですからかなり大きいですよね。
+
+![久保田山古墳（北から）](Kubotayama_1.jpg)
+![久保田山古墳（北から）](Kubotayama_2.jpg)
+
+![久保田山古墳（北から）](Kubotayama_3.jpg)
+![久保田山古墳（北から）](Kubotayama_4.jpg)
+
+円筒埴輪も並べられて立派に見えます。
+
+![久保田山古墳（南から）](Kubotayama_5.jpg)
+![久保田山古墳（南から）](Kubotayama_6.jpg)
+
+![葺石・周濠の案内板](Kubotayama_7.jpg)
+![久保田山古墳（南から）](Kubotayama_8.jpg)
+
+![久保田山古墳](Kubotayama_9.jpg)
+![久保田山古墳（西から）](Kubotayama_10.jpg)
+
+![久保田山古墳（西から北側の造出方向を望む）](Kubotayama_11.jpg)
+![久保田山古墳](Kubotayama_12.jpg)
+
+天乞山古墳をバックに撮ると絵になりますねえ。
+
+![久保田山古墳](Kubotayama_13.jpg)
+![久保田山古墳（天乞山古墳をバックに）](Kubotayama_14.jpg)
+
+![久保田山古墳](Kubotayama_15.jpg)
+![久保田山古墳](Kubotayama_16.jpg)
+
+![久保田山古墳](Kubotayama_17.jpg)
+![久保田山古墳](Kubotayama_18.jpg)
+
+![久保田山古墳](Kubotayama_19.jpg)
+![久保田山古墳](Kubotayama_20.jpg)
+
+![久保田山古墳（南から）](Kubotayama_21.jpg)
+![久保田山古墳（南東から）](Kubotayama_22.jpg)
+
+
+![久保田山古墳](Kubotayama_26.jpg)
+
+東近江市は他にも古墳が結構あるみたいですから行ってみたいですね。
 
 ## 参考
 
