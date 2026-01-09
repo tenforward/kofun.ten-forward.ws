@@ -3,7 +3,7 @@ title: "志段味（しだみ）古墳群"
 date: 2022-11-14T23:45:00+09:00
 author: tenforward
 description: 
-tags: [""]
+tags: ["前方後円墳","方墳","帆立貝型古墳","円墳","5世紀後半","6世紀前半","5世紀中頃","6世紀後半","7世紀前半"]
 categories: ["愛知県"]
 draft: false
 image: ShidamiOtsuka1.jpg
@@ -161,6 +161,53 @@ image: ShidamiOtsuka1.jpg
 
 ![西大久手古墳](NishiOkute5.jpg)
 ![西大久手古墳](NishiOkute6.jpg)
+
+## 大久手 3 号墳
+
+古墳群唯一の方墳です。
+
+![大久手3号墳案内板](Okute3_3.jpg)
+
+![大久手3号墳](Okute3_1.jpg)
+![大久手3号墳](Okute3_2.jpg)
+
+## 大久手 4 号墳
+
+4 号墳は須恵器や埴輪などが出土しているものの、盛り土自体は江戸時代以降のもののようですね。
+
+![大久手4号墳案内板](Okute4_2.jpg)
+
+![大久手4号墳](Okute4_1.jpg)
+![大久手4号墳](Okute4_3.jpg)
+
+## 東谷山白鳥古墳
+
+公園から少し離れた道路沿いにあるのが東谷山白鳥古墳です。
+
+石室には入れないものの、内部に照明があり、開口部から中がしっかり見学できます。音声案内もあります。
+
+![東谷山白鳥古墳案内板](ToukokusanShiratori_3.jpg)
+
+![東谷山白鳥古墳入口](ToukokusanShiratori_1.jpg)
+![東谷山白鳥古墳](ToukokusanShiratori_2.jpg)
+
+良い形ですねえ。
+
+![東谷山白鳥古墳](ToukokusanShiratori_4.jpg)
+
+![東谷山白鳥古墳石室](ToukokusanShiratori_5.jpg)
+![東谷山白鳥古墳石室](ToukokusanShiratori_6.jpg)
+
+ここから石室が見学できます。
+
+![東谷山白鳥古墳](ToukokusanShiratori_7.jpg)
+![東谷山白鳥古墳](ToukokusanShiratori_9.jpg)
+
+![東谷山白鳥古墳](ToukokusanShiratori_8.jpg)
+![東谷山白鳥古墳羨道](ToukokusanShiratori_10.jpg)
+
+
+
 
 
 （続く）
