@@ -206,8 +206,16 @@ image: ShidamiOtsuka1.jpg
 ![東谷山白鳥古墳](ToukokusanShiratori_8.jpg)
 ![東谷山白鳥古墳羨道](ToukokusanShiratori_10.jpg)
 
+## 東谷山 27 号墳
 
+東谷山には多数の古墳があるようですが、白鳥古墳を見終えた頃には結構夕方になっていたので、登り口からすぐのところにある 27 号墳だけ見ておこうと思って、少しだけ散策路を登りました。
 
+白鳥古墳から東谷山の登り口に行くまでにいくつも古墳がありそうでしたが、予習をしてなかったので、どこにあるのか良くわかりませんでした。
 
+![東谷山散策路の登り口](Toukokusan27_1.jpg)
+![東谷山 27 号墳](Toukokusan27_2.jpg)
+![東谷山 27 号墳](Toukokusan27_3.jpg)
 
-（続く）
+## 参考
+
+* [歴史の里したみ古墳群](https://www.rekishinosato.city.nagoya.jp/index.html)
