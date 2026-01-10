@@ -213,7 +213,7 @@ image: ShidamiOtsuka1.jpg
 白鳥古墳から東谷山の登り口に行くまでにいくつも古墳がありそうでしたが、予習をしてなかったので、どこにあるのか良くわかりませんでした。
 
 ![東谷山散策路の登り口](Toukokusan27_1.jpg)
-![東谷山 27 号墳](Toukokusan27_2.jpg)
+![東谷山 27 号墳案内板](Toukokusan27_2.jpg)
 ![東谷山 27 号墳](Toukokusan27_3.jpg)
 
 ## 参考
