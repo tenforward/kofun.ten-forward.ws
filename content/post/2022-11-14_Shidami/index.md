@@ -218,4 +218,4 @@ image: ShidamiOtsuka1.jpg
 
 ## 参考
 
-* [歴史の里したみ古墳群](https://www.rekishinosato.city.nagoya.jp/index.html)
+* [歴史の里しだみ古墳群](https://www.rekishinosato.city.nagoya.jp/index.html)
