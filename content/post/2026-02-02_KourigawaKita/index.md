@@ -77,6 +77,8 @@ image: KorigawaKita_10.jpg
 ![2号墳 玄室左側](KorigawaKita2_5.jpg)
 ![2号墳 玄室](KorigawaKita2_6.jpg)
 
+右片袖ですね。
+
 ![2号墳 玄室奥と天井部](KorigawaKita2_7.jpg)
 ![2号墳 玄室から羨道](KorigawaKita2_8.jpg)
 ![2号墳 玄室から羨道方向の上部](KorigawaKita2_9.jpg)
