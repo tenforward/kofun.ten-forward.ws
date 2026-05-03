@@ -107,7 +107,9 @@ image: Takijinja_22.jpg
 
 動画ではわかりづらいですが、10 号墳付近から 11 号墳まで上がっていくところです。
 
-{{< video src=/post/2025-03-09_takijinja/Takijinja.mp4 >}}
+<video controls width="50%">
+  <source src="/post/2025-03-09_takijinja/Takijinja.mp4" type="video/mp4">
+</video>
 
 11 号墳は石室があるようですが、埋まってて開口部がないのかな?
 
