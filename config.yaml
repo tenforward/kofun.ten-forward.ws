@@ -41,10 +41,7 @@ params:
     sidebar:
         emoji:
         subtitle: 古墳探訪記
-        avatar:
-            enabled: true
-            local: true
-            src: img/megane_blue.png
+        avatar: img/megane_blue.png
 
     article:
         math: false
@@ -169,7 +166,7 @@ params:
         default: light
 
     imageProcessing:
-        cover:
+        thumbnail:
             enabled: true
         content:
             enabled: true
