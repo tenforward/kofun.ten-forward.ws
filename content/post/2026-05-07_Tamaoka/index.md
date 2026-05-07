@@ -106,18 +106,18 @@ image: TamaokaPark_1.jpg
 
 ![玉丘古墳](Tamaoka_1.jpg)
 
-![玉丘古墳](Tamaoka_2.jpg)
-![玉丘古墳](Tamaoka_3.jpg)
+![玉丘古墳南西側](Tamaoka_2.jpg)
+![玉丘古墳北西側](Tamaoka_3.jpg)
 
-![玉丘古墳](Tamaoka_4.jpg)
-![玉丘古墳](Tamaoka_5.jpg)
+![玉丘古墳東側](Tamaoka_4.jpg)
+![玉丘古墳北東側](Tamaoka_5.jpg)
 
 ![玉丘古墳案内板](Tamaoka_8.jpg)
 ![玉丘古墳案内板](Tamaoka_7.jpg)
 ![ガイダンス施設の案内板](Tamaoka_10.jpg)
 
 ![玉丘古墳](Tamaoka_6.jpg)
-![玉丘古墳前方部側](Tamaoka_9.jpg)
+![玉丘古墳前方部（南東）側](Tamaoka_9.jpg)
 
 ## 参考
 
