@@ -23,6 +23,10 @@ hasCJKLanguage: true
 #    post: /p/:slug/
 #    page: /:slug/
 
+caches:
+    images:
+        dir: :cacheDir/images
+
 params:
     mainSections:
         - post
