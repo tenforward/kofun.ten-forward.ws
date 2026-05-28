@@ -1,5 +1,5 @@
 baseurl: https://kofun.ten-forward.ws/
-languageCode: ja-jp
+locale: ja-jp
 theme: hugo-theme-stack
 pagination.pagerSize: 5
 title: TenForward Kofun Log
