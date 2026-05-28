@@ -51,6 +51,8 @@ image: Hitozuka_9.jpg
 ![人塚古墳](Hitozuka_14.jpg)
 ![人塚古墳墳頂部](Hitozuka_15.jpg)
 
+（続く）
 
+## 参考
 
-
+* [西条古墳群/国指定史跡](https://www.city.kakogawa.lg.jp/soshikikarasagasu/kyouiku/kakuka/kyoikushidobu/bunkazai_cyosa/bunkazai/kunisiteikaisetu/kunisiteisaijoukofungun.html) （加古川市教育委員会）
