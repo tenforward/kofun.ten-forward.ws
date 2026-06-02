@@ -51,6 +51,26 @@ image: Hitozuka_9.jpg
 ![人塚古墳](Hitozuka_14.jpg)
 ![人塚古墳墳頂部](Hitozuka_15.jpg)
 
+## 尼塚古墳
+
+全長 51.5m の造出付き円墳です。二段築成のようです。
+
+![尼塚古墳案内板](Amazuka_4.jpg)
+![尼塚古墳](Amazuka_3.jpg)
+
+![尼塚古墳](Amazuka_1.jpg)
+![尼塚古墳](Amazuka_2.jpg)
+
+![尼塚古墳（西側から）](Amazuka_5.jpg)
+![尼塚古墳（南側から）](Amazuka_6.jpg)
+
+![尼塚古墳造出部（南東側）](Amazuka_9.jpg)
+
+![尼塚古墳墳頂部](Amazuka_7.jpg)
+![尼塚古墳（北西側から）](Amazuka_8.jpg)
+
+いい形です。
+
 （続く）
 
 ## 参考
