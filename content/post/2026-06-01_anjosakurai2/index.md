@@ -123,6 +123,24 @@ image: Tsukagoshi_13.jpg
 ![姫塚古墳（墳頂への道）](Himezuka_5.jpg)
 ![姫塚古墳墳頂](Himezuka_6.jpg)
 
+## 獅子塚古墳
+
+4 世紀後半〜5 世紀前半の前方後円墳（もしくは前方後方墳）で、前方部は鹿乗川改修工事の際に削られたとのことです。保存計画書の一箇所には 6 世紀とあるけどたぶん誤記（別の所には 4 世紀後半〜 5 世紀前半とある）
+
+ここも、墳頂に秋葉神社の本殿があります。
+
+![獅子塚古墳案内板](Shishizuka_3.jpg)
+![獅子塚古墳（秋葉神社）](Shishizuka_1.jpg)
+
+ここも神社の木が茂っていて古墳の形を感じられるのが難しい古墳ですね。
+
+![獅子塚古墳](Shishizuka_2.jpg)
+![獅子塚古墳](Shishizuka_4.jpg)
+
+![獅子塚古墳](Shishizuka_5.jpg)
+![獅子塚古墳墳頂部](Shishizuka_6.jpg)
+
+
 ## 参考文献
 
 * [桜井古墳群](https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/maibun-sakuraikohungun.html) （安城市埋蔵文化財センター）
