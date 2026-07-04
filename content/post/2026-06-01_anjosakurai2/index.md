@@ -160,6 +160,15 @@ image: Tsukagoshi_13.jpg
 ![加美古墳](Kami_5.jpg)
 ![加美古墳（西側から）](Kami_6.jpg)
 
+## （番外編）国亭
+
+古墳見学の間にランチの時間になったので、Google Map で検索して出てきたオムライスが美味しそうな[国亭](https://maps.app.goo.gl/FPCw4wH1sRmqW14u8)に行きました。
+
+美味しかったですよ。安城の古墳探訪のお伴にどうぞ。
+
+![国亭](Kunitei_2.jpg)
+![オムライス](Kunitei_1.jpg)
+
 
 ## 参考文献
 
