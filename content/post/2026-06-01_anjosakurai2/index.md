@@ -176,6 +176,30 @@ image: Tsukagoshi_13.jpg
 ![愛染古墳（西側から）](Aizen_3.jpg)
 ![愛染古墳（東側の道路沿い）](Aizen_4.jpg)
 
+## 三ツ塚古墳 1 号墳
+
+愛染古墳から少し歩くと住宅地の中に児童公園があり、そこに三ツ塚古墳 1 号墳が保存されています。
+
+![三ツ塚公園案内板](Mitsuzuka1_1.jpg)
+
+案内板には「1970 年頃には第1・2号古墳が残っていました」とあります。公園内の 1 号墳も、古墳ではなく、鎌倉時代の塚である可能性が高いとされているようです（参照: 安城市[令和元年の調査](https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/maibun-chousa-r1.html)）。他は住宅地の下でしょうか。
+
+横には古井戸跡があります。
+
+![三ツ塚古墳1号墳](Mitsuzuka1_2.jpg)
+![古井戸](Mitsuzuka1_3.jpg)
+
+![三ツ塚古墳1号墳](Mitsuzuka1_4.jpg)
+![三ツ塚古墳1号墳](Mitsuzuka1_5.jpg)
+
+## 東川古墳
+
+読み方は「ひがしかわ」です。古墳の形状、築造時期ともに不明のようです。私有地の中にあるので、脇の道から眺めるだけです。
+
+![東川古墳](Higashikawa_1.jpg)
+![東川古墳](Higashikawa_2.jpg)
+
+
 ## （番外編）国亭
 
 古墳見学の間にランチの時間になったので、Google Map で検索して出てきたオムライスが美味しそうな[国亭](https://maps.app.goo.gl/FPCw4wH1sRmqW14u8)に行きました。
