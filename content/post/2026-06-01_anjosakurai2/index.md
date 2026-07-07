@@ -6,7 +6,7 @@ description:
 tags: ["4世紀中頃","前方後円墳","円墳","方墳"]
 categories: ["愛知県"]
 draft: false
-image: Tsukagoshi_13.jpg
+image: Himezuka_4.jpg
 ---
 
 2022 年のラリージャパン観戦後に安城の桜井古墳群を半日回ったのですが、そのときは午後は別の古墳群に行ったので、まだ見ていない古墳がありました。そのときのレポートは[こちら](/post/2022-11-14_anjosakurai/)。
